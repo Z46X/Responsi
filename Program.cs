@@ -13,9 +13,9 @@ namespace ResponsiPemrograman4390
             Console.WriteLine("\n");
 
 
-            Karyawan karyawan1 = new Karyawan(1911, "Yogi", 4200000);
-            Karyawan karyawan2 = new Karyawan(2742, "Kobo", 23200000);
-            Karyawan karyawan3 = new Karyawan(1519, "Zul", -1000000);
+            Karyawan karyawan1 = new Karyawan(4390, "Yogi", 4200000);
+            Karyawan karyawan2 = new Karyawan(1742, "Kobo", 23200000);
+            Karyawan karyawan3 = new Karyawan(3219, "Zul", -1000000);
 
 
             Console.WriteLine("==================================================");
